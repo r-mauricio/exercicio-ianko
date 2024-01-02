@@ -1,0 +1,4 @@
+1- Decomposição: quebrar o problema a ser resolvido em partes menores, facilitando sua solução. Exemplo clássico de decomposição é uma receita de bolo. Onde são listadas pequenas etapas a serem seguidas afim de chegar em um resultado mais complexo.
+2- Reconhecimento de padrões: reconhecer coisas ou eventos que já aconteceram e o resultado disso, podendo usar esse resultado em outras ocasiões onde o mesmo evento ocorra, polpando tempo e trabalho. 
+3- Abstração: focar no problema a ser resolvido e só no que pertence a ele. Deixar coisas que não pertencem a esse problema para depois. 
+4- Algoritmo: criação de sequência de regras a serem seguidas para resolver o problema de forma otimizada.

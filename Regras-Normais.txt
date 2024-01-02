@@ -1,0 +1,5 @@
+As regras normais em modelagem de dados devem ser seguidas para minimizar o número de repetição de dados e simplificar e leitura dos dados. Uma modelagem desnormalizada é muito confusa e não performática. Além de aumentar o risco de problemas no desenvolvimento.
+Existem 3 regras principais:
+1FN: Primeira etapa de normalização onde toda tabela deve ter uma pk(primary key), apenas valores atômicos, não possuir valores multivalorados nem compostos
+2FN: Na segunda etapa, além dos requisitos da primeira, os atributos não-chave são dependentes de todas as partes da pk. Não existem dependências parciais e atributos não dependem de chaves candidatas. 
+3FN: Remove dependências transitivas

@@ -4,6 +4,6 @@ Principalmente tipagem.
 DDD e número de telefone: eu uso tinyint para DDD e bigint para número de telefone
 id UF: tinyint ao invés de smallint
 id nas tabelas tipo e na StatusFeedback: tinyint ao inves de smallint
-Atributo CEP: uso bigint ao invés de char
+Atributo CEP: uso int ao invés de char
 QuantidadeAndares na entidade Edificio: tinyint ao inves de smallint
 Logradouro eu uso como um atributo antes como "rua", "avenida", "alameda"... e crio outro atributo "nome" para o nome da rua, avenida...
